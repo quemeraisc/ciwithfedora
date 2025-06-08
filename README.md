@@ -1,2 +1,1 @@
-Action
 GitHub Actions has no native Fedora support and dropped CentOS 7 in 2024.This repo demonstrates how to use https://fedora-python/tox-github-action to validate Python packages for Fedora compatibility in CI workflows—helping you maintain testing coverage for modern Fedora-based systems.
